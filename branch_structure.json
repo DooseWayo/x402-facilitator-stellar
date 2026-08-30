@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/dlq-webhook-delivery",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/dlq-webhook-delivery": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/dlq-webhook-delivery",
+    "origin"
+  ]
+}
